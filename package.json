@@ -1,0 +1,25 @@
+{
+  "name": "spotifyapi",
+  "version": "1.0.0",
+  "description": "this service only access handling, token and refresh tokens by Spotify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiiix/spotify-node-api.git"
+  },
+  "author": "Thiago Moura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiiix/spotify-node-api/issues"
+  },
+  "homepage": "https://github.com/Thiiix/spotify-node-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
