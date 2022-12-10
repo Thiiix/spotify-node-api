@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Thiiix/spotify-node-api#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "querystring": "^0.2.0",
     "request": "^2.88.0"
   }
